@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikkosz
 - 👀 I’m interested in Java, C#, C++, Arduino and some various things that pose a challange for me
-- 🌱 I’m currently learning netwroking stuff
+- 🌱 I’m currently learning networking stuff
 - 💞️ I’m looking to collaborate on some java projects
 - 📫 How to reach me? Good question. E-mail or just git
 
